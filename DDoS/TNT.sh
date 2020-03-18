@@ -77,9 +77,9 @@ done
 ##block, challenge, whitelist, js_challenge
 ##Cloudflare 配置文件
 
-CFEMAIL="你的Cloudflare邮箱📮"
-CFAPIKEY="填写你的APIKEY"
-ZONESID="填写你的ZONESID"
+CFEMAIL="这里填写Cloudflare邮箱📮" #Email 
+CFAPIKEY="这里填写APIKEY" #API token Cloudflare 控制面板-你的域名-右下角-API 可找到
+ZONESID="这里填写ZONESID" #Zone ID Cloudflare 控制面板-你的域名-右下角-API 可找到
 IPADDR=$(</home/echo.cf.ddos.conf)
 
 for IPADDR in ${IPADDR[@]}; do
@@ -92,3 +92,6 @@ curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$ZONESID/firewall/ac
 done
 
 > /home/echo.cf.ddos.conf
+
+## 参考 https://www.9sep.org/cloudflare-batch-firewall-blacklist
+## 完整 https://limbopro.xyz/archives/6949.html
