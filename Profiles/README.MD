@@ -1,4 +1,7 @@
-## 机场专用分流
+## 神机分流规则
+https://github.com/limbopro/Profiles
+- 由神机规则fork而来，未做较大改动
+## 机场专用分流规则
 https://github.com/limbopro/Profiles/tree/master/limbopro
 - TG主流机场域名（80+）分流规则（默认走代理），走代理/直连/手动切换自由选择；
 
