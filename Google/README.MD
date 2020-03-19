@@ -10,3 +10,4 @@
 
 - 油猴脚本安装器下载 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - 油猴脚本之家 https://greasyfork.org/zh-CN
+- 完全使用指南 https://limbopro.xyz/archives/greasyfork.html
