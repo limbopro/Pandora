@@ -3,6 +3,8 @@
 ## Chrome 下载
 - https://www.google.com/intl/zh-CN/chrome/
 ## Chrome Store
+用来向您的浏览器添加新功能并个性化您的浏览体验的小程序。
+
 - https://chrome.google.com/webstore/category/extensions
 
 ## 油猴脚本
