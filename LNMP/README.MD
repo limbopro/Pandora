@@ -9,6 +9,8 @@ https://lnmp.org/
 
 ## 网站镜像制作脚本
 https://github.com/limbopro/Pandora/blob/master/LNMP/Gitpages-mirror.sh
+Gitpages 镜像示例：https://limbopro.github.io/
+源站：https://limbopro.xyz 
 
 合理使用Github pages
 恰到好处
